@@ -10,7 +10,7 @@ class CreateButton extends PureComponent {
 
     
     return (
-      <input type="button" value="Create Event" 
+      <input type="button" value="Test Event" 
          onClick={this.handleClick.bind(this)} ></input>
     );
   }

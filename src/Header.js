@@ -11,7 +11,7 @@ class Header extends PureComponent {
           height="32"
           alt=""
         />
-        Data Search
+        Menu Search (what would you like to have?)
         <img
           src="//cdn.jsdelivr.net/emojione/assets/png/1f63a.png"
           width="32"

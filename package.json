@@ -1,20 +1,19 @@
 {
-  "name": "reactdemo",
+  "name": "reactdemo-search",
   "version": "1.0.0",
   "description": "Demo for react framework",
-  "homepage": "https://github.com/prawinn555/reactdemo",
+  "homepage": ".",
   "devDependencies": {
-    "gh-pages": "^1.1.0",
     "prettier": "^1.13.0",
-    "react-scripts": "^3.0.0"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "clipboard": "^1.7.1",
     "github-fork-ribbon-css": "^0.2.1",
     "prop-types": "^15.7.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-popup": "^0.10.0"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-popup": "^0.11.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -22,44 +22,37 @@ The REST service is another project.  The service is deployed here
 
 ## Online live demo
 
-Visit [Live demo](https://reactdemo-search.glitch.me/), powered by Glitch
+[Github pages](https://prawinn555.github.io/reactdemo-search/)
+
+
 
 ## Code
 
-From [Github](https://github.com/prawinn555/rreactdemo-search)
+From [Github](https://github.com/prawinn555/reactdemo-search/)
 
 
 ## Installation
 
-
-### Prerequisites
-
-* Install NodeJS
-
-### Installation
-
-
 ```
-git clone https://github.com/prawinn555/reactdemo
-cd reactdemo/
-npm install
- 
-```
-
-* Change your database URL in the file .env. 
-
-
-```
-TODO
+npm i
+npm start
 
 ```
 
-* Run the application
+
+## Deployment
 
 ```
-node start
- 
+npm run build
+
+gh-pages -d build
+
 ```
+
+(must install gh-pages before)
+
+
+
 
 
 ## Understand the code
